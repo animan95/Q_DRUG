@@ -131,5 +131,5 @@ MIT License – you are free to use, modify, and distribute this project.
 
 ## 📬 Contact
 
-**[Your Name]**  
-For questions or collaborations: [your_email@example.com] or [your GitHub]
+**Aniket Mandal**  
+For questions or collaborations: aniket.kmandal@gmail.com
